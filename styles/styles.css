@@ -1,0 +1,224 @@
+/*li {
+    background-color: yellow;
+}
+h3 {
+    color: blueviolet;
+}*/
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: color #f5f7fa;;
+}
+.main {
+    display: flex;
+    flex-direction: row-reverse; 
+    width: 1200px;
+    margin: 0 auto;
+}
+.main-content {
+    background-color: #fff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px;
+}
+
+.about {
+   margin-bottom: 40px;
+}
+.about-position {
+    color: #000000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 20px;
+}
+.about-name {
+    color: #000000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    margin-bottom: 25px;
+}
+.about-description {
+    color: #595959;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    width: 400px;
+}
+.title {
+    color: #000000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+.project-list {
+    padding: 0;
+    margin-left: 15px;
+}
+.project-items {
+    color: #000000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    
+}
+.project {
+    margin-bottom: 50px;
+}
+.project,
+.project-link {
+    color: #595959;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+.project-link {
+    margin-left: 10px;
+}
+.project-bracket {
+    color: #000000;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+.work {
+    margin-bottom: 50px;
+}
+.work-position {
+    color: #000000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+.organization {
+    color: #fb6d3a;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+}
+.period {
+    color: #a8a8a8;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    margin-bottom: 10px;
+}
+.line {
+    color: #000000;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+}
+.work-list {
+    padding: 0;
+    margin-left: 15px;
+}
+.work-list-item {
+    color: #595959;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+.education {
+    margin-bottom: 50px;
+}
+.education-state {
+    color: #fb6d3a;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+.education-speciality {
+    color: #000000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 10px;
+}
+.education-period {
+    color: #a8a8a8;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+}
+.sidebar {
+    background-color: rgb(139, 140, 174);
+    padding-top: 40px;
+    width: 370px;
+}
+.foto {
+    width: 370px;
+    margin-bottom: 50px;
+}
+.contacts,
+.t-skills,
+.s-skills {
+    margin-left: 40px;
+    padding-right: 60px;
+}
+.contacts {
+    margin-bottom: 50px;
+}
+.t-skills {
+    margin-bottom: 45px;
+}
+.sidebar-title {
+    color: #fff;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+.contact-type {
+    color: #fff;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 10px;
+}
+.contact-link {
+    color: rgb(40, 69, 127);
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+.t-skills-list,
+.s-skills-list {
+    color: #fff;
+    padding: 0;
+    margin-left: 17px;
+}
+.t-skills-item,
+.s-skills-item {
+    color: chocolate;
+}
+.t-skills-text,
+.s-skills-text
+ {
+    color: #fff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+
+}
